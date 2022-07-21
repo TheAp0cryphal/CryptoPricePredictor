@@ -1,4 +1,4 @@
-#  CMPT 353 Final Project - Cryptocurrency Analysis
+#Cryptocurrency Analysis
 
 ## How to Run Programs
 

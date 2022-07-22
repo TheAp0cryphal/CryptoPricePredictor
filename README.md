@@ -34,7 +34,6 @@ The out_directory_all run with the Neural Net
 
 ### run models.py
 
-
 Required Libraries: Pandas, Numpy, sys, matplotlib, sklearn, re, seaborn, datetime, requests
 
 BEFORE YOU RUN: create a folder called images
@@ -82,3 +81,19 @@ This program requires the coins .csv files to be located in the same directory l
 Run the program by executing "python percent_change.py [firstCoin] [secondCoin]" in the terminal. Ensure to indicate the two coins that are desired as sys arguments. The visuals will be saved as .jpgs.
 
 Example: >python percent_change.py bitcoin polkadot
+
+
+
+# Paper
+![cryptoProjectreport-01](https://user-images.githubusercontent.com/70075553/180358452-2c5d4e85-758a-4ab8-8ca0-61a9ebed1149.jpg)
+![cryptoProjectreport-02](https://user-images.githubusercontent.com/70075553/180358455-c2c0fdee-5e65-4113-9883-20de29dc5c0c.jpg)
+![cryptoProjectreport-03](https://user-images.githubusercontent.com/70075553/180358459-53f85c87-f989-4af1-87ce-f0eb3c9451f3.jpg)
+![cryptoProjectreport-04](https://user-images.githubusercontent.com/70075553/180358460-bc122a92-1f4b-46ba-959d-ba07a8874649.jpg)
+![cryptoProjectreport-05](https://user-images.githubusercontent.com/70075553/180358461-8d41705c-16ff-49d0-b4c7-4eea3a6eb800.jpg)
+![cryptoProjectreport-06](https://user-images.githubusercontent.com/70075553/180358464-c9df12b5-187d-437d-8994-eed3f043813d.jpg)
+![cryptoProjectreport-07](https://user-images.githubusercontent.com/70075553/180358465-93722210-d354-446f-ae00-0a8258860985.jpg)
+![cryptoProjectreport-08](https://user-images.githubusercontent.com/70075553/180358467-dba990bf-7637-440a-aa7e-b28a9eb933e1.jpg)
+![cryptoProjectreport-09](https://user-images.githubusercontent.com/70075553/180358468-cb1919e2-1026-4c05-89ee-e12503ce47c3.jpg)
+
+
+

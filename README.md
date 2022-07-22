@@ -1,4 +1,4 @@
-#Cryptocurrency Analysis
+# Cryptocurrency Analysis
 
 ## How to Run Programs
 

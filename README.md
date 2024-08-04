@@ -1,5 +1,7 @@
 # Cryptocurrency Analysis
 
+![image](https://github.com/user-attachments/assets/3fff3f4f-8485-46ea-9c8a-00f5d8edbe5e)
+
 ## How to Run Programs
 
 ### run reddit.py
